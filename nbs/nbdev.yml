@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "BabyBus"
+  site-url: "https://songwupei.github.io/BabyBus"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/songwupei/BabyBus"
